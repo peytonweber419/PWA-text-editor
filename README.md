@@ -82,7 +82,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Installation
 
-This project is deployed through Render: 
+This project is deployed through Render: https://jate-pwa-editor-h4ep.onrender.com/
 
 To run JATE locally:
 - Clone this repo onto your machine,
@@ -94,4 +94,5 @@ To run JATE locally:
 N/A
 
 ## Screenshot of Deployed Application
+![image](https://github.com/peytonweber419/PWA-text-editor/assets/144742645/9c5c276e-a402-441d-ad97-b05e121e01a4)
 
